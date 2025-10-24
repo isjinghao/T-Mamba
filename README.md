@@ -3,7 +3,7 @@
 </p>
 
 
-# T-Mamba: A Unified Framework with Long-Range Dependency in Dual-Domain for 2D & 3D Tooth Segmentation
+# T-Mamba: A Unified Framework with Long-Range Dependency in Dual-Domain for 2D & 3D Tooth Segmentation 🦷✨
 
 This repository is the official implementation of the [T-Mamba: A unified framework with Long-Range Dependency in dual-domain for 2D & 3D Tooth Segmentation](https://arxiv.org/pdf/2404.01065).
 
@@ -13,9 +13,9 @@ This repository is the official implementation of the [T-Mamba: A unified framew
 
 Currently, T-Mamba supports both 2D and 3D vision tasks. We welcome you to try it out to improve your model's performance. 
 
-## Dataset
+## Dataset 📦
 
-The proposed TED3 dataset is available at: [Hugging Face](https://huggingface.co/datasets/Bryceee/TED).
+The proposed TED dataset is available at: [Hugging Face](https://huggingface.co/datasets/Bryceee/TED).
 
 ## Contact
 
