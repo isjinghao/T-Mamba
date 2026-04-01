@@ -63,10 +63,11 @@ sh infer_2d.sh # for 2D
 If you use TED3 dataset or the T-Mamba network in your research, please use the following BibTeX entry.
 
 ```bibtex
-@article{hao2024t,
+@article{hao2026t,
   title={T-Mamba: a unified framework with long-range dependency in dual-domain for 2D \& 3D tooth segmentation},
   author={Hao, Jing and Zhu, Yonghui and He, Lei and Liu, Moyun and Tsoi, James Kit Hon and Hung, Kuo Feng},
-  journal={arXiv preprint arXiv:2404.01065},
-  year={2024}
+  journal={IEEE Transactions on Multimedia},
+  year={2026},
+  publisher={IEEE}
 }
 ```
